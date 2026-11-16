@@ -21,7 +21,7 @@ export default defineConfig({
     name: 'Tajdîn',
     description:
       'Internet radio, always by your side: Kurdish stations and 50,000+ more, playing in the background.',
-    homepage_url: 'https://0xdolan.github.io/tajdin/',
+    homepage_url: 'https://kanilabs.github.io/tajdin/',
     permissions: [
       'storage',
       'alarms',

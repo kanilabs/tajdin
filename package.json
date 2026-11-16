@@ -5,10 +5,10 @@
   "description": "Tajdîn — always by your side. Internet radio for your browser and the web.",
   "license": "MIT",
   "author": "0xdolan",
-  "homepage": "https://0xdolan.github.io/tajdin/",
+  "homepage": "https://kanilabs.github.io/tajdin/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xdolan/tajdin.git"
+    "url": "git+https://github.com/kanilabs/tajdin.git"
   },
   "type": "module",
   "packageManager": "pnpm@10.12.1",

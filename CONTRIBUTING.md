@@ -59,6 +59,6 @@ or target it.
 
 ## Reporting bugs
 
-Use the [bug report form](https://github.com/0xdolan/tajdin/issues/new?template=bug.yml). Include
+Use the [bug report form](https://github.com/kanilabs/tajdin/issues/new?template=bug.yml). Include
 your browser and version, Tajdîn's version (shown in the footer) and the station if relevant.
 Security issues: see [SECURITY.md](SECURITY.md); please don't open public issues for them.

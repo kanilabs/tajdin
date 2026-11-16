@@ -28,5 +28,5 @@ Before opening a pull request:
 
 To remove a dead station, delete its entry and leave its `id` unused.
 
-Not a developer? [Open an issue](https://github.com/0xdolan/tajdin/issues/new?template=station.yml)
+Not a developer? [Open an issue](https://github.com/kanilabs/tajdin/issues/new?template=station.yml)
 with the name and stream link.

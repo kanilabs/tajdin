@@ -18,12 +18,12 @@ save stays on your computer.
 
 ## Install
 
-| Browser                       | Where                                                                                                   |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Chrome, Edge, Brave, Vivaldi… | [Chrome Web Store](https://chromewebstore.google.com/detail/igldoeednndfkhmigohfblmlppmphock)           |
-| Firefox (desktop and Android) | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/tajdin/)                                     |
-| Any browser, no install       | [0xdolan.github.io/tajdin](https://0xdolan.github.io/tajdin/)                                           |
-| From a release zip            | See [installing from a zip](https://github.com/0xdolan/tajdin#install-from-a-release-zip) in the README |
+| Browser                       | Where                                                                                                    |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Chrome, Edge, Brave, Vivaldi… | [Chrome Web Store](https://chromewebstore.google.com/detail/igldoeednndfkhmigohfblmlppmphock)            |
+| Firefox (desktop and Android) | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/tajdin/)                                      |
+| Any browser, no install       | [kanilabs.github.io/tajdin](https://kanilabs.github.io/tajdin/)                                          |
+| From a release zip            | See [installing from a zip](https://github.com/kanilabs/tajdin#install-from-a-release-zip) in the README |
 
 After installing, pin Tajdîn to the toolbar (the puzzle-piece menu → pin) so the Roj icon is
 always visible.
@@ -158,7 +158,7 @@ Click **+ → Play a link or file…**:
 The **desktop view** (🖥 in the popup) is a full-window player with a sidebar, a station grid and a
 large player. It **starts playing as soon as it opens** (turn that off in **Settings → Playback**).
 
-The same player runs on the web at **[0xdolan.github.io/tajdin](https://0xdolan.github.io/tajdin/)**.
+The same player runs on the web at **[kanilabs.github.io/tajdin](https://kanilabs.github.io/tajdin/)**.
 Differences on the website:
 
 - Your library is saved in that browser's site storage, separately from the extension. Use
@@ -226,10 +226,10 @@ searches go to the directories and audio comes from each station's own server. S
 [privacy policy](./privacy-policy.md).
 
 **A station doesn't play.** Stations go offline or change addresses; try another one. If a curated
-Kurdish station is broken, please [open an issue](https://github.com/0xdolan/tajdin/issues).
+Kurdish station is broken, please [open an issue](https://github.com/kanilabs/tajdin/issues).
 
 **Can I suggest a Kurdish station?** Yes. Open an issue with its name and stream link, or send a
-pull request (see [adding stations](https://github.com/0xdolan/tajdin/blob/main/docs/adding-stations.md)).
+pull request (see [adding stations](https://github.com/kanilabs/tajdin/blob/main/docs/adding-stations.md)).
 
 **Why does the website say "Start listening"?** Browsers don't let websites start sound without a
 click. The extension's desktop view doesn't need it.

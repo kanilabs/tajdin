@@ -40,7 +40,7 @@ Tajdîn is a radio player that stays by your side while you browse.
 
 🌙 Light, dark and system themes · keyboard accessible · right-to-left station names
 
-Open source: https://github.com/0xdolan/tajdin
+Open source: https://github.com/kanilabs/tajdin
 
 ## Category
 
@@ -58,7 +58,7 @@ Chrome: Entertainment · Firefox: Music & Audio (or "Other")
 **Single purpose:** play internet radio stations.
 **Remote code:** none. All code is bundled; no `eval`.
 **Data usage:** no user data is collected or transmitted. Privacy policy:
-https://github.com/0xdolan/tajdin/blob/main/docs/privacy-policy.md
+https://github.com/kanilabs/tajdin/blob/main/docs/privacy-policy.md
 
 ## Notes for Firefox reviewers
 

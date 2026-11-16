@@ -36,7 +36,7 @@ export function createCuratedSource(): StationSource {
     id: 'curated',
     label: 'Tajdîn Kurdish list',
     homepage:
-      'https://github.com/0xdolan/tajdin/blob/main/packages/core/src/data/kurdish-stations.json',
+      'https://github.com/kanilabs/tajdin/blob/main/packages/core/src/data/kurdish-stations.json',
     hasLanguages: true,
 
     async search(query) {

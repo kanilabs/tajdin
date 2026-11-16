@@ -3,7 +3,7 @@
 **Last updated:** 25 October 2026 (version 0.1.4)
 
 Tajdîn is a radio player for Chrome, Firefox and the web. It is open source:
-[github.com/0xdolan/tajdin](https://github.com/0xdolan/tajdin).
+[github.com/kanilabs/tajdin](https://github.com/kanilabs/tajdin).
 
 ## In short
 
@@ -65,5 +65,5 @@ If Tajdîn's behaviour changes, this page will be updated, along with the date a
 
 ## Contact
 
-Questions or concerns: [open an issue](https://github.com/0xdolan/tajdin/issues). For security
-reports, see [SECURITY.md](https://github.com/0xdolan/tajdin/blob/main/SECURITY.md).
+Questions or concerns: [open an issue](https://github.com/kanilabs/tajdin/issues). For security
+reports, see [SECURITY.md](https://github.com/kanilabs/tajdin/blob/main/SECURITY.md).

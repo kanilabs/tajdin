@@ -7,7 +7,7 @@
 - Python 3 (only to regenerate the logo, or for the ui-ux-pro-max design skill)
 
 ```bash
-git clone git@github.com:0xdolan/tajdin.git
+git clone git@github.com:kanilabs/tajdin.git
 cd tajdin
 pnpm install
 ```

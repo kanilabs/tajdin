@@ -3,7 +3,7 @@
 All notable changes to Tajdîn. The format follows [Keep a Changelog](https://keepachangelog.com/),
 and versions follow [Semantic Versioning](https://semver.org/).
 
-## [0.1.5](https://github.com/0xdolan/tajdin/releases/tag/v0.1.5) · 2026-10-25
+## [0.1.5](https://github.com/kanilabs/tajdin/releases/tag/v0.1.5) · 2026-10-25
 
 ### Fixes
 
@@ -23,7 +23,7 @@ and versions follow [Semantic Versioning](https://semver.org/).
   the checks pass, and `develop` automatically mirrors `main`. The website now updates with each
   release.
 
-## [0.1.4](https://github.com/0xdolan/tajdin/releases/tag/v0.1.4) · 2026-10-25
+## [0.1.4](https://github.com/kanilabs/tajdin/releases/tag/v0.1.4) · 2026-10-25
 
 ### Security
 
@@ -36,7 +36,7 @@ and versions follow [Semantic Versioning](https://semver.org/).
 - The release-notes tool no longer builds a regular expression from its input.
 - The repository's language statistics no longer count the design-tool scripts.
 
-## [0.1.3](https://github.com/0xdolan/tajdin/releases/tag/v0.1.3) · 2026-10-25
+## [0.1.3](https://github.com/kanilabs/tajdin/releases/tag/v0.1.3) · 2026-10-25
 
 No changes to how Tajdîn works; this release brings the project's release process up to date.
 
@@ -45,7 +45,7 @@ No changes to how Tajdîn works; this release brings the project's release proce
 - Releases and the merge back into development now go entirely through reviewed pull requests,
   with checks passing before anything reaches the released branch.
 
-## [0.1.2](https://github.com/0xdolan/tajdin/releases/tag/v0.1.2) · 2026-10-25
+## [0.1.2](https://github.com/kanilabs/tajdin/releases/tag/v0.1.2) · 2026-10-25
 
 ### Changes
 
@@ -61,7 +61,7 @@ No changes to how Tajdîn works; this release brings the project's release proce
 - Store releases: a new version now replaces a Chrome Web Store submission that is still waiting
   for review, instead of the upload being refused.
 
-## [0.1.1](https://github.com/0xdolan/tajdin/releases/tag/v0.1.1) · 2026-10-25
+## [0.1.1](https://github.com/kanilabs/tajdin/releases/tag/v0.1.1) · 2026-10-25
 
 ### Features
 
@@ -88,7 +88,7 @@ No changes to how Tajdîn works; this release brings the project's release proce
 - The release sources zip is built with `git archive`, so building no longer prints a warning
   per file.
 
-## [0.1.0](https://github.com/0xdolan/tajdin/releases/tag/v0.1.0) · 2026-10-25
+## [0.1.0](https://github.com/kanilabs/tajdin/releases/tag/v0.1.0) · 2026-10-25
 
 Tajdîn has been rebuilt from scratch, with a new design, a new logo and a Firefox version.
 Your favourites, playlists, custom stations and settings from 0.0.x move over automatically.
@@ -99,7 +99,7 @@ Your favourites, playlists, custom stations and settings from 0.0.x move over au
   shows what's happening: grey when idle, amber when paused, and a pulsing green wave while playing.
 - **Firefox**: Tajdîn is now on Firefox Add-ons as well as the Chrome Web Store.
 - **Desktop view and website**: a full-window player, also at
-  [0xdolan.github.io/tajdin](https://0xdolan.github.io/tajdin/). It starts a station as soon as it
+  [kanilabs.github.io/tajdin](https://kanilabs.github.io/tajdin/). It starts a station as soon as it
   opens.
 - **A fresh mix every time**: the popup opens on a new random set of stations, or on a favourite
   list, playlist, group or language you choose in Settings.
@@ -132,10 +132,10 @@ Your favourites, playlists, custom stations and settings from 0.0.x move over au
 - CI with lint, type checks, unit tests, Firefox validation and a browser smoke test. Tagged
   releases publish zips to GitHub and submit to both stores.
 
-## [0.0.2](https://github.com/0xdolan/tajdin/releases/tag/v0.0.2)
+## [0.0.2](https://github.com/kanilabs/tajdin/releases/tag/v0.0.2)
 
 - UI refresh, accessibility focus rings and loading skeletons.
 
-## [0.0.1](https://github.com/0xdolan/tajdin/releases/tag/v0.0.1)
+## [0.0.1](https://github.com/kanilabs/tajdin/releases/tag/v0.0.1)
 
 - First Chrome release: Radio Browser search, favourites, playlists, custom stations and backups.
