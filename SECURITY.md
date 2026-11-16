@@ -8,7 +8,7 @@ fixes.
 ## Reporting a vulnerability
 
 Please **don't open a public issue**. Use GitHub's private
-[security advisory form](https://github.com/0xdolan/tajdin/security/advisories/new) instead.
+[security advisory form](https://github.com/kanilabs/tajdin/security/advisories/new) instead.
 Include:
 
 - what an attacker could do, and how (steps or a proof of concept);
@@ -20,7 +20,7 @@ to be.
 
 ## Scope
 
-In scope: the extension, the website (`0xdolan.github.io/tajdin`), the build and release
+In scope: the extension, the website (`kanilabs.github.io/tajdin`), the build and release
 workflows, and handling of data from directories, streams and backup files.
 
 Out of scope: the third-party directories and stream servers themselves (Radio Browser, SomaFM,

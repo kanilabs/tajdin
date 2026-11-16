@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security issue
-    url: https://github.com/0xdolan/tajdin/security/advisories/new
+    url: https://github.com/kanilabs/tajdin/security/advisories/new
     about: Please report vulnerabilities privately.
   - name: User guide
-    url: https://0xdolan.github.io/tajdin/docs/
+    url: https://kanilabs.github.io/tajdin/docs/
     about: How to use Tajdîn.

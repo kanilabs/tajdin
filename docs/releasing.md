@@ -73,7 +73,7 @@ the stores_.
 ### GitHub repository
 
 1. **Settings → Pages → Source: GitHub Actions.** The site deploys from `main` to
-   `https://0xdolan.github.io/tajdin/`.
+   `https://kanilabs.github.io/tajdin/`.
 2. **Settings → Environments → New environment `stores`.** Optionally add yourself as a required
    reviewer so every store submission needs a click. Add the secrets below to this environment.
 3. **Settings → General → Pull Requests:** allow auto-merge and _Automatically delete head
@@ -81,7 +81,7 @@ the stores_.
    and the CI checks, and blocks force pushes and deletion. A second ruleset for `develop` only
    blocks deletion, so the **Sync develop** workflow can still move it. **Settings → Environments → github-pages:** allow
    deployments from `main` and from tags `v*.*.*`.
-4. Optional: set the repository's website to `https://0xdolan.github.io/tajdin/`, and add topics
+4. Optional: set the repository's website to `https://kanilabs.github.io/tajdin/`, and add topics
    such as `radio`, `kurdish`, `browser-extension` and `chrome-extension`.
 
 ### Chrome Web Store (existing listing `igldoeednndfkhmigohfblmlppmphock`)

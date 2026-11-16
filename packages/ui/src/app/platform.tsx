@@ -45,12 +45,12 @@ export interface Platform {
 
 export const LINKS = {
   author: 'https://github.com/0xdolan',
-  source: 'https://github.com/0xdolan/tajdin',
-  docs: 'https://0xdolan.github.io/tajdin/docs/',
-  site: 'https://0xdolan.github.io/tajdin/',
-  issues: 'https://github.com/0xdolan/tajdin/issues',
-  privacy: 'https://github.com/0xdolan/tajdin/blob/main/docs/privacy-policy.md',
-  changelog: 'https://github.com/0xdolan/tajdin/blob/main/CHANGELOG.md',
+  source: 'https://github.com/kanilabs/tajdin',
+  docs: 'https://kanilabs.github.io/tajdin/docs/',
+  site: 'https://kanilabs.github.io/tajdin/',
+  issues: 'https://github.com/kanilabs/tajdin/issues',
+  privacy: 'https://github.com/kanilabs/tajdin/blob/main/docs/privacy-policy.md',
+  changelog: 'https://github.com/kanilabs/tajdin/blob/main/CHANGELOG.md',
   radioBrowser: 'https://www.radio-browser.info/',
   somafm: 'https://somafm.com/',
   lautfm: 'https://laut.fm/',

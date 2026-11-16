@@ -9,13 +9,13 @@ Kurdish stations and 50,000+ more from around the world, in your browser toolbar
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/igldoeednndfkhmigohfblmlppmphock?label=Chrome%20Web%20Store&logo=googlechrome&logoColor=white&color=16a34a)](https://chromewebstore.google.com/detail/igldoeednndfkhmigohfblmlppmphock)
 [![Firefox Add-ons](https://img.shields.io/amo/v/tajdin?label=Firefox%20Add-ons&logo=firefoxbrowser&logoColor=white&color=f59e0b)](https://addons.mozilla.org/firefox/addon/tajdin/)
-[![Website](https://img.shields.io/badge/web-0xdolan.github.io%2Ftajdin-312e81)](https://0xdolan.github.io/tajdin/)
+[![Website](https://img.shields.io/badge/web-kanilabs.github.io%2Ftajdin-312e81)](https://kanilabs.github.io/tajdin/)
 <br />
-[![CI](https://github.com/0xdolan/tajdin/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/0xdolan/tajdin/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/0xdolan/tajdin?color=312e81)](https://github.com/0xdolan/tajdin/releases/latest)
+[![CI](https://github.com/kanilabs/tajdin/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/kanilabs/tajdin/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/kanilabs/tajdin?color=312e81)](https://github.com/kanilabs/tajdin/releases/latest)
 [![License: MIT](https://img.shields.io/badge/license-MIT-64748b)](LICENSE)
 
-[Install](#install) · [User guide](https://0xdolan.github.io/tajdin/docs/) · [Website](https://0xdolan.github.io/tajdin/) · [Changelog](CHANGELOG.md) · [Privacy](docs/privacy-policy.md)
+[Install](#install) · [User guide](https://kanilabs.github.io/tajdin/docs/) · [Website](https://kanilabs.github.io/tajdin/) · [Changelog](CHANGELOG.md) · [Privacy](docs/privacy-policy.md)
 
 <img src="assets/store/screenshot-1-popup.png" alt="The Tajdîn popup playing a Kurdish station" width="860" />
 
@@ -70,7 +70,7 @@ what this radio wants to be. Hence the motto, _always by your side_.
 - **Play anything.** Add any stream URL as your own station, or play a link or an audio file
   once.
 - **Desktop view and website.** A full-window player that starts as soon as it opens, also at
-  [0xdolan.github.io/tajdin](https://0xdolan.github.io/tajdin/).
+  [kanilabs.github.io/tajdin](https://kanilabs.github.io/tajdin/).
 - **Keyboard-first.** Media keys and browser-wide shortcuts, in-app keys, and keyboard
   reordering of playlists.
 - **Backup you control.** JSON export/import with a preview and merge or replace per section,
@@ -118,11 +118,11 @@ what this radio wants to be. Hence the motto, _always by your side_.
 | ----------------------------------- | --------------------------------------------------------------------------------------------- |
 | Chrome, Edge, Brave, Vivaldi, Opera | [Chrome Web Store](https://chromewebstore.google.com/detail/igldoeednndfkhmigohfblmlppmphock) |
 | Firefox (desktop and Android)       | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/tajdin/)                           |
-| Any browser, nothing to install     | [0xdolan.github.io/tajdin](https://0xdolan.github.io/tajdin/)                                 |
+| Any browser, nothing to install     | [kanilabs.github.io/tajdin](https://kanilabs.github.io/tajdin/)                               |
 
 ### Install from a release zip
 
-Every [release](https://github.com/0xdolan/tajdin/releases/latest) has ready-built zips:
+Every [release](https://github.com/kanilabs/tajdin/releases/latest) has ready-built zips:
 
 - **Chrome / Chromium:** download `tajdin-<version>-chrome.zip` and unzip it. Open
   `chrome://extensions`, turn on **Developer mode**, click **Load unpacked** and pick the unzipped
@@ -136,7 +136,7 @@ Check downloads against `SHA256SUMS.txt` with `sha256sum -c SHA256SUMS.txt`.
 ### Build it yourself
 
 ```bash
-git clone https://github.com/0xdolan/tajdin.git && cd tajdin
+git clone https://github.com/kanilabs/tajdin.git && cd tajdin
 corepack enable && pnpm install
 pnpm build:extension     # → apps/extension/.output/{chrome-mv3,firefox-mv2} and zips
 ```
@@ -157,7 +157,7 @@ version.
 Media keys work anywhere. In the popup: <kbd>Space</kbd> play/pause · <kbd>N</kbd>/<kbd>P</kbd>
 next/previous · <kbd>R</kbd> random · <kbd>M</kbd> mute.
 
-📖 Full guide: **[0xdolan.github.io/tajdin/docs](https://0xdolan.github.io/tajdin/docs/)** ([source](docs/user-guide.md))
+📖 Full guide: **[kanilabs.github.io/tajdin/docs](https://kanilabs.github.io/tajdin/docs/)** ([source](docs/user-guide.md))
 
 ## Privacy
 
@@ -188,7 +188,7 @@ Built with TypeScript, React 19, Tailwind CSS 4, [shadcn/ui](https://ui.shadcn.c
   [Releasing and store setup](docs/releasing.md) · [Store listing](docs/store-listing.md)
 - [Contributing](CONTRIBUTING.md): branches, pull requests, Conventional Commits, house rules
 - [Add a Kurdish station](docs/adding-stations.md): one line of JSON, or
-  [open an issue](https://github.com/0xdolan/tajdin/issues/new?template=station.yml)
+  [open an issue](https://github.com/kanilabs/tajdin/issues/new?template=station.yml)
 
 ## Credits
 

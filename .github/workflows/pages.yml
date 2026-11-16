@@ -1,6 +1,6 @@
 name: Website
 
-# The site at https://0xdolan.github.io/tajdin/ shows the latest release: it deploys from each
+# The site at https://kanilabs.github.io/tajdin/ shows the latest release: it deploys from each
 # version tag (main itself may already hold the next release's changes).
 on:
   push:

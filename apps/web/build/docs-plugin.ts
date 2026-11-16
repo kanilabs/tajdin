@@ -95,7 +95,7 @@ export function docsPlugin(): Plugin {
           .replace(/\]\(\.\/privacy-policy\.md\)/g, `](${base}docs/privacy/)`)
           .replace(
             /\]\((\.\.\/)?assets\//g,
-            '](https://raw.githubusercontent.com/0xdolan/tajdin/main/assets/',
+            '](https://raw.githubusercontent.com/kanilabs/tajdin/main/assets/',
           );
         this.emitFile({
           type: 'asset',
